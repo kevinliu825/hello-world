@@ -1,4 +1,1 @@
-# hello-world
-
-hello github I'm thanos.
-你好
+尼玛

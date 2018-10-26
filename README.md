@@ -1,5 +1,4 @@
-﻿<<<<<<< HEAD
-﻿# hello-world
+﻿﻿# hello-world
 hello
 hello github I'm thanos.
 
